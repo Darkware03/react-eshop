@@ -1,0 +1,9 @@
+
+/*configuracion para usar babel el .env y react*/
+
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-ract"
+  ]
+}
